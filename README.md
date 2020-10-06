@@ -1,1 +1,1 @@
-# team-solar-orbiter
+# team-atlas
